@@ -1,0 +1,7 @@
+"","Country","ISO3","Indicator","Year","Value","Sex","AgeGroup","StatisticalUnit","RelationshipPerpetrator","Source","Dataset","ICVACCategory","WealthQuintile","IDPstatus","SettlementType","Comments","Reliability"
+"1","Armenia","ARM","Ever experienced physical violence since age 15",2016,0,"Female","15-19","Rate",NA,"2015-16 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA
+"2","Azerbaijan","AZE","Ever experienced physical violence since age 15",2006,8.6,"Female","15-19","Rate",NA,"2006 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA
+"3","Kyrgyz Republic","KGZ","Ever experienced physical violence since age 15",2012,6.3,"Female","15-19","Rate",NA,"2012 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA
+"4","Moldova","MDA","Ever experienced physical violence since age 15",2005,14,"Female","15-19","Rate",NA,"2005 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA
+"5","Tajikistan","TJK","Ever experienced physical violence since age 15",2017,11.5,"Female","15-19","Rate",NA,"2017 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA
+"6","Ukraine","UKR","Ever experienced physical violence since age 15",2007,6.2,"Female","15-19","Rate",NA,"2007 DHS","DHS_PHYSICAL_VIOLENCE","Physical violence against a child",NA,NA,NA,NA,NA

@@ -1,0 +1,151 @@
+"Category","Column","Mean","Sex","AgeGroup","WealthQuintile","IDPstatus","SettlementType"
+"Sex",NA,21.40934,"Female",NA,NA,NA,NA
+"Sex",NA,30.62775,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,24.78697,NA,"2",NA,NA,NA
+"AgeGroup",NA,36.06532,NA,"3",NA,NA,NA
+"AgeGroup",NA,26.68471,NA,"4",NA,NA,NA
+"AgeGroup",NA,30.96021,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,19.62279,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,30.17471,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,26.88204,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,26.35373,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,26.04884,NA,NA,NA,NA,"Urban"
+"Sex",NA,23.07179,"Female",NA,NA,NA,NA
+"Sex",NA,28.08271,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,36.12806,NA,"2",NA,NA,NA
+"AgeGroup",NA,42.61928,NA,"3",NA,NA,NA
+"AgeGroup",NA,36.19237,NA,"4",NA,NA,NA
+"AgeGroup",NA,23.53629,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,10.36014,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,26.22739,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,26.04138,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,24.37873,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,26.0732,NA,NA,NA,NA,"Urban"
+"Sex",NA,29.18028,"Female",NA,NA,NA,NA
+"Sex",NA,32.02386,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,35.4157,NA,"2",NA,NA,NA
+"AgeGroup",NA,42.4013,NA,"3",NA,NA,NA
+"AgeGroup",NA,43.6735,NA,"4",NA,NA,NA
+"AgeGroup",NA,35.66818,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,19.46943,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,37.90607,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,25.92941,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,36.56785,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,30.3326,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,33.96571,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,28.58545,NA,NA,NA,NA,"Urban"
+"Sex",NA,27.32507,"Female",NA,NA,NA,NA
+"Sex",NA,32.29769,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,33.38157,NA,"2",NA,NA,NA
+"AgeGroup",NA,43.65446,NA,"3",NA,NA,NA
+"AgeGroup",NA,37.94584,NA,"4",NA,NA,NA
+"AgeGroup",NA,35.21589,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,20.87528,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,34.30952,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,21.75427,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,31.07167,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,28.22384,NA,NA,NA,NA,"Urban"
+"Sex",NA,44.95172,"Female",NA,NA,NA,NA
+"Sex",NA,49.83039,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,44.0239,NA,"2",NA,NA,NA
+"AgeGroup",NA,48.4514,NA,"3",NA,NA,NA
+"AgeGroup",NA,51.62923,NA,"4",NA,NA,NA
+"AgeGroup",NA,54.01244,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,42.92835,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,41.54509,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,52.46159,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,45.72982,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,51.30267,NA,NA,NA,NA,"Urban"
+"Sex",NA,41.17229,"Female",NA,NA,NA,NA
+"Sex",NA,47.94592,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,55.53204,NA,"2",NA,NA,NA
+"AgeGroup",NA,59.28239,NA,"3",NA,NA,NA
+"AgeGroup",NA,54.73122,NA,"4",NA,NA,NA
+"AgeGroup",NA,44.76652,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,31.41155,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,45.07002,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,38.73266,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,42.41475,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,46.05291,NA,NA,NA,NA,"Urban"
+"Sex",NA,31.6833,"Female",NA,NA,NA,NA
+"Sex",NA,31.17891,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,30.99628,NA,"2",NA,NA,NA
+"AgeGroup",NA,36.90623,NA,"3",NA,NA,NA
+"AgeGroup",NA,39.6267,NA,"4",NA,NA,NA
+"AgeGroup",NA,40.27082,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,19.88103,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,36.25952,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,28.38044,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,34.55215,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,29.90641,NA,NA,NA,NA,"Urban"
+"Sex",NA,18.00273,"Female",NA,NA,NA,NA
+"Sex",NA,20.77242,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,25.10636,NA,"2",NA,NA,NA
+"AgeGroup",NA,32.95848,NA,"3",NA,NA,NA
+"AgeGroup",NA,25.49069,NA,"4",NA,NA,NA
+"AgeGroup",NA,22.7398,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,10.0486,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,21.27146,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,20.50967,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,19.1737,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,19.67563,NA,NA,NA,NA,"Urban"
+"Sex",NA,44.65728,"Female",NA,NA,NA,NA
+"Sex",NA,52.77021,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,45.72063,NA,"2",NA,NA,NA
+"AgeGroup",NA,54.32079,NA,"3",NA,NA,NA
+"AgeGroup",NA,61.36866,NA,"4",NA,NA,NA
+"AgeGroup",NA,56.16909,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,38.77293,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,47.57173,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,46.24458,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,51.65262,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,44.779,NA,NA,NA,NA,"Urban"
+"Sex",NA,26.83267,"Female",NA,NA,NA,NA
+"Sex",NA,31.71545,"Male",NA,NA,NA,NA
+"AgeGroup",NA,NA,NA,"<1",NA,NA,NA
+"AgeGroup",NA,27.92589,NA,"2",NA,NA,NA
+"AgeGroup",NA,39.87868,NA,"3",NA,NA,NA
+"AgeGroup",NA,33.87942,NA,"4",NA,NA,NA
+"AgeGroup",NA,35.42207,NA,"5-9",NA,NA,NA
+"AgeGroup",NA,21.99959,NA,"10-14",NA,NA,NA
+"AgeGroup",NA,NA,NA,"15-17",NA,NA,NA
+"WealthQuintile",NA,36.59922,NA,NA,"Poorest (Q1)",NA,NA
+"WealthQuintile",NA,25.15958,NA,NA,"Richest (Q5)",NA,NA
+"IDPstatus",NA,NA,NA,NA,NA,"IDP",NA
+"IDPstatus",NA,NA,NA,NA,NA,"Non IDP",NA
+"SettlementType",NA,30.91492,NA,NA,NA,NA,"Rural"
+"SettlementType",NA,27.54652,NA,NA,NA,NA,"Urban"

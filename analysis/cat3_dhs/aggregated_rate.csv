@@ -1,0 +1,7 @@
+"","Country","ISO3","Indicator","Year","Value","Sex","AgeGroup","StatisticalUnit","RelationshipPerpetrator","Source","Dataset","ICVACCategory","WealthQuintile","IDPstatus","SettlementType","Comments","Reliability"
+"1","Armenia","ARM","Women who ever experienced sexual violence",2016,0,"Female","15-19","Rate",NA,"2015-16 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA
+"2","Azerbaijan","AZE","Women who ever experienced sexual violence",2006,0.4,"Female","15-19","Rate",NA,"2006 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA
+"3","Kyrgyz Republic","KGZ","Women who ever experienced sexual violence",2012,0.1,"Female","15-19","Rate",NA,"2012 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA
+"4","Moldova","MDA","Women who ever experienced sexual violence",2005,1.7,"Female","15-19","Rate",NA,"2005 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA
+"5","Tajikistan","TJK","Women who ever experienced sexual violence",2017,0.2,"Female","15-19","Rate",NA,"2017 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA
+"6","Ukraine","UKR","Women who ever experienced sexual violence",2007,0.3,"Female","15-19","Rate",NA,"2007 DHS","DHS_SEXUAL_VIOLENCE","Sexual violence against a child",NA,NA,NA,NA,NA

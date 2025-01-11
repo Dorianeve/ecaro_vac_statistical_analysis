@@ -1,0 +1,20 @@
+Category,DataType,Count
+Composite phoenomena,'Administrative',47
+Composite phoenomena,'Survey',33
+Composite phoenomena,'Ombudsman',1
+Neglect of a child,'Administrative',2
+Neglect of a child,'Survey',1
+Other acts of violence against a child not elsewhere classified,'Administrative',76
+Other acts of violence against a child not elsewhere classified,'Survey',29
+Other acts of violence against a child not elsewhere classified,'Hotline',1
+Other acts of violence against a child not elsewhere classified,'Ombudsman',1
+Physical violence against a child,'Survey',64
+Physical violence against a child,'Administrative',17
+Physical violence against a child,'Not specified',2
+Psychological violence against a child,'Survey',50
+Psychological violence against a child,'Administrative',11
+Sexual violence against a child,'Survey',51
+Sexual violence against a child,'Administrative',27
+Sexual violence against a child,'Not specified',1
+Violent killing of a child,'Administrative',17
+Violent killing of a child,'Survey',1

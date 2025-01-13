@@ -37,7 +37,7 @@ p <- ggplot(data, aes(x = Country, y = Value, fill = Sex)) +
 print(p)
 
 # Save the plot in the corresponding directory
-ggsave(filename = "analysis/cat10_hbsc_cb/buillying_gender.png",
+ggsave(filename = "graphs/cat10_hbsc_cb/buillying_gender.png",
        plot = p, width = 30, height = 15)
 
 
@@ -46,7 +46,7 @@ data <- hbsc %>% filter(Sex == "Total")
 
 data <- processing_comparison(data, "Rate")
 p <- static_map(data)
-ggsave(filename = "analysis/cat10_hbsc_cb/bullying_map.png",
+ggsave(filename = "graphs/cat10_hbsc_cb/bullying_map.png",
        plot = p, width = 24, height = 12)
 
 
@@ -60,7 +60,7 @@ aggregation <- hbsc %>%
             Median = median(Value, na.rm = TRUE)) %>%
   pivot_wider(names_from = Sex, values_from = c(Average, Median))
 
-write.csv(aggregation, "analysis/cat10_hbsc_cb/gender_aggregation.csv")
+write.csv(aggregation, "graphs/cat10_hbsc_cb/gender_aggregation.csv")
 
 # Calculate absolute and relative differences
 gender_diff <- hbsc %>%
@@ -75,7 +75,7 @@ gender_diff <- hbsc %>%
 # Display results
 gender_diff
 
-write.csv(gender_diff, "analysis/cat10_hbsc_cb/gender_diff.csv")
+write.csv(gender_diff, "graphs/cat10_hbsc_cb/gender_diff.csv")
 
 
 totals <- hbsc %>%
@@ -84,7 +84,7 @@ totals <- hbsc %>%
   dplyr::select(Country, Value)
 
 
-write.csv(totals, "analysis/cat10_hbsc_cb/totals.csv")
+write.csv(totals, "graphs/cat10_hbsc_cb/totals.csv")
 
 ## Wealth Quintiles ----
 
@@ -100,8 +100,8 @@ wq_comparison_country <- data %>%
 
 
 
-write.csv(wq_comparison, "analysis/cat10_hbsc_cb/quintile_comparison.csv")
-write.csv(wq_comparison_country, "analysis/cat10_hbsc_cb/quintile_comparison_country.csv")
+write.csv(wq_comparison, "graphs/cat10_hbsc_cb/quintile_comparison.csv")
+write.csv(wq_comparison_country, "graphs/cat10_hbsc_cb/quintile_comparison_country.csv")
 
 
 # Plotting
@@ -110,7 +110,7 @@ data <- data %>%
   mutate(WealthQuintile = factor(WealthQuintile, levels = c("Lowest", "Middle", "Highest")))
 
 # Define folder path
-output_folder <- "analysis/cat10_hbsc_cb/"
+output_folder <- "graphs/cat10_hbsc_cb/"
 
 # Create the folder if it doesn't exist
 if (!dir.exists(output_folder)) {
